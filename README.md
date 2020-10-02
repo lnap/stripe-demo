@@ -19,7 +19,11 @@ Follow the steps to run locally.
 2. Setup the server
 
 	Open a Terminal window
-	Install the Stripe Node library by typing into your Terminal: npm install --save stripe
+	Install the Stripe Node library by typing into your Terminal: 
+	
+	```bash
+	npm install
+	```
 
 3. Run the server:
 
